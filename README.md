@@ -163,20 +163,6 @@ Once buckets are managed, the next step is handling objects (files) within those
       - `objects.csv`: Metadata for the objects in that bucket.
       - Files (objects) stored inside the bucket folder.
       
-### Example Directory:
-
-```
-/data
-  /photos
-    /holiday.jpg
-    objects.csv
-  /videos
-    /vacation.mp4
-    objects.csv
-```
-
----
-
 ## Usage Instructions
 
 ### Command-Line Options
